@@ -1,0 +1,54 @@
+body {
+  background-image: url("http://res.cloudinary.com/lcg8knula/Skyline_o8hzim");
+   background-size: 100%;
+   background-attachment: fixed;
+   font-family: Calibri;   
+ }
+
+.heading {
+ margin: 1%;
+ padding: 1%;
+ display: inline-block;
+ font-family: "Montserrat";
+}
+
+ .heading img {
+   display: inline-block;
+   font-family: "Montserrat";
+   width: 50%;
+ }
+
+ a {
+   color: gold;
+ }
+
+ h2 {
+   color: black;
+   padding-left: 1%;
+   padding-top; 1%;
+ }
+
+ p {
+   padding-bottom: 1%;
+   padding-left: 1%;
+   font-size: 25px;
+ }
+
+ button {
+   margin: 1%;
+   box-shadow: 1px 2px 5px #000000;
+ }
+
+ #output {
+   margin-top: 1%;
+   font-family: "Calibri";
+ }
+
+ h1 {
+   font-family: "Montserrat";
+ }
+
+
+    
+
+
